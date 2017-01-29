@@ -5,6 +5,6 @@
  김성훈 교수님의 [모두를 위한 머신러닝/딥러닝 강의](http://hunkim.github.io/ml) 의 실습 코드 입니다.<br>
 <br>
 
+## Fork.
 
-# 공사중
-[구버전](https://github.com/FuZer/Study_TensorFlow/tree/old_version)
+Lab3 을 추가 하기 위하여 Fork 하였습니다.
