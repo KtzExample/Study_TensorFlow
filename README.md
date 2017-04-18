@@ -12,3 +12,5 @@ Ubuntu 16.04, Python 3.5.2
 ## Fork.
 
 Lab3 을 추가 하기 위하여 Fork 하였습니다.
+
+Just for me :)
