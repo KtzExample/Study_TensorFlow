@@ -36,7 +36,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/kakao/PycharmProjects/Study_TensorFlow_Back/venv"
+set -gx VIRTUAL_ENV "/Users/kakao/PycharmProjects/Study_TensorFlow/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

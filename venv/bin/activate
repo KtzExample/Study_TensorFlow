@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/kakao/PycharmProjects/Study_TensorFlow_Back/venv"
+VIRTUAL_ENV="/Users/kakao/PycharmProjects/Study_TensorFlow/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

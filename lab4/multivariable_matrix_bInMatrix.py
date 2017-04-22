@@ -7,6 +7,8 @@ y_data = [1, 2, 3, 4, 5]
 
 W = tf.Variable(tf.random_uniform([1, 3], -1.0, 1.0))
 
+# W*X
+
 hypothesis = tf.matmul(W, x_data)
 
 cost = tf.reduce_mean(tf.square(hypothesis - y_data))
